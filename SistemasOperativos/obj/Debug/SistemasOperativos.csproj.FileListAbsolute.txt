@@ -1,0 +1,17 @@
+C:\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.exe.config
+C:\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.exe
+C:\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.pdb
+C:\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.Form_RafagasCPU.resources
+C:\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.Properties.Resources.resources
+C:\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.csproj.GenerateResource.Cache
+C:\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.exe
+C:\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.pdb
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.exe.config
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.exe
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\bin\Debug\SistemasOperativos.pdb
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.Form_RafagasCPU.resources
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.Properties.Resources.resources
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.exe
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.pdb
+C:\Users\Leo\Desktop\SistemasOperativos\SistemasOperativos\SistemasOperativos\obj\Debug\SistemasOperativos.csprojResolveAssemblyReference.cache
